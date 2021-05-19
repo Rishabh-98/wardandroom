@@ -10,7 +10,7 @@ import com.wardandroom.entities.Ward;
 
 
 @Service
-public class WardServiceImpl implements IWardService {
+public class WardServiceImpl implements IWardService { 
 	
 	@Autowired
 	private WardRepository wardRepository;
